@@ -43,3 +43,5 @@ const data = await res.json();
 
 return data.txhash;
 ```
+
+![image](https://github.com/studna/pokt-lightweight-signing-example/assets/939784/d14e7444-4794-4edc-b535-d884f603b888)
