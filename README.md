@@ -1,6 +1,6 @@
 # Pocket Network - Lightweight Tx Signing Example
 
-Utilizing @pokt-foundation/* libraries may present challenges in native applications or require unnecessary audits due to it's dependencies.
+Utilizing `@pokt-foundation/*` libraries may present challenges in native applications or require unnecessary audits due to it's dependencies.
 
 This showcase demonstrates how to generate signed transaction data using lightweight dependencies:
 
@@ -10,7 +10,7 @@ This showcase demonstrates how to generate signed transaction data using lightwe
 - create-hash (optional, you can use Node.js crypto)
 
 
-# Submit txdata to /v1/client/rawtx
+# Submit txdata to /v1/client/rawtx
 
 ```js
 const POCKET_RPC_ENDPOINT = 'yourPocketRpcHost';
